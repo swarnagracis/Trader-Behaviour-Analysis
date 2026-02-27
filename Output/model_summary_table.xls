@@ -1,0 +1,4 @@
+Metric,Value
+Accuracy,0.6926
+Precision (Profitable),0.71
+Recall (Profitable),0.87
